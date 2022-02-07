@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  win32.cpp
+D:\ALL GIT\MannaExercise\ColorDebug\win32.cpp(13,39): error C2121: '#': invalid character: possibly the result of a macro expansion
+D:\ALL GIT\MannaExercise\ColorDebug\win32.cpp(13,39): error C2065: 'define': undeclared identifier
+D:\ALL GIT\MannaExercise\ColorDebug\win32.cpp(13,39): error C2059: syntax error: 'constant'
+  Generating Code...
